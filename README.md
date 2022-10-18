@@ -8,6 +8,8 @@ my name is **Muhammad Elang Permadani** and I'm a student in **Informatics Engin
 
 This is a simple weather app made with React Native. It uses the OpenWeatherMap API to get the weather data.
 
+<img src="./assets/Screenshoots.jpg" width="200">
+
 ## Dependencies
 
 - React
